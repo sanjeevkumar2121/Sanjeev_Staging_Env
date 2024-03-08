@@ -1,1 +1,2 @@
-﻿Select*from Employee
+﻿Select*from Employee 
+Insert *into #temp Select*from employee
